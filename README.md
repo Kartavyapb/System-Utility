@@ -65,7 +65,8 @@ System-Utility/ <br>
 * Accepts User ID and Password
 * Displays real-time date & time
 * Uses messagebox for success/error alerts
-* Can connect to a MySQL database for authentication
+* Can connect to a MySQL database for authentication <br>
+<img width="741" height="536" alt="Image" src="https://github.com/user-attachments/assets/05f5c514-6de5-431d-ae2b-33e777058650" />
 
 #### 🖥️ 2. Dashboard
 * Acts as the main control panel
@@ -75,35 +76,41 @@ System-Utility/ <br>
     * Protect System
     * Additional Tools
     * Clean Up Window
-    * About & Exit
+    * About & Exit <br>
+<img width="749" height="541" alt="Image" src="https://github.com/user-attachments/assets/bdae015d-9093-44ff-b0a8-3f1f4e6f7898" />
 
 #### ⚙️ 3. Customize Window
 * Open Windows Explorer
 * Find installed software
 * Change system Date/Time
-* Navigate Back or Exit
+* Navigate Back or Exit <br>
+<img width="749" height="532" alt="Image" src="https://github.com/user-attachments/assets/4f31cfa5-f57d-4fd4-b3d4-559e983d8a07" />
 
 #### 🚀 4. System Performance
 * Displays installed software list
 * Transfer selected programs to Uninstall List
 * Simulate software removal
-* Improve system speed and performance
+* Improve system speed and performance <br>
+<img width="745" height="543" alt="Image" src="https://github.com/user-attachments/assets/f28297cc-4101-4af9-86df-fe831ed0972c" />
 
 #### 🔐 5. Protect System
 * Lock/unlock folders
 * Optional password protection for extra security
-* Uses file dialogs for folder selection
+* Uses file dialogs for folder selection <br>
+<img width="746" height="536" alt="Image" src="https://github.com/user-attachments/assets/541e70c5-073b-42b6-b473-0f61cf4f900a" />
 
 #### 🔒 6. Additional Tools
 * Encrypt/Decrypt files using cryptography.fernet
 * Browse files easily
 * Save encrypted files with .enc extension
-* Decrypt files back to original format
+* Decrypt files back to original format <br>
+<img width="747" height="540" alt="Image" src="https://github.com/user-attachments/assets/35ae3aed-7195-4baf-a9f6-31da4b8bb09a" />
 
 #### 🧹 7. Clean Up Window
 * Clear Recycle Bin and Temporary Files
 * Confirmation dialogs using askyesno()
-* Display results in messageboxes
+* Display results in messageboxes <br>
+<img width="748" height="538" alt="Image" src="https://github.com/user-attachments/assets/a77428a7-8c92-4240-8750-1ccb2e1f1070" />
 
 ## 🧠 Usage
 1. Run the application.
